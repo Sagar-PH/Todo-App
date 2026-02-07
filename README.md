@@ -65,4 +65,4 @@
 <hr />
 
 <h2>Demo Screenshot</h2>
-<img src="demo/Screenshot.png" width="600">
+<img src="project_demo/Screenshot.png" width="600">
