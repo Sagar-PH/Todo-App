@@ -61,3 +61,8 @@
 <hr />
 
 <p align="center">Made by <strong>Sagar</strong></p>
+
+<hr />
+
+<h2>Demo Screenshot</h2>
+<img src="demo/Screenshot.png" width="600">
